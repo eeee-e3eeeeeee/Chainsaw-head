@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 7.31h | 4 |
+| Week 5 | Tier 1 | 7.6h | 4 |
 
 ## Contents
 
@@ -43,10 +43,12 @@ So... I just wanna reflect rn cuz man is this tiring like ive spend 4 hours on t
 
 ### 2026-11-07: Work session
 
-**3.33h**
+**3.62h**
 
 Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/46f8ef39-8f43-4b51-a7b8-b6aff23e0c11/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5c16993f-f54e-4932-a5c6-c9cd027774b3/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/9147e0e3-969d-45ee-98da-a11696bc5efd/video.mp4)
